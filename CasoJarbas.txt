@@ -1,0 +1,13 @@
+Relatório Gestão de Configuração 
+
+Caso Jarbas
+
+As dependencias do caso Jarbas são comuns em todos os projetos de sotware existente no mundo se assim podemos dizer. A grau de importancia ou fazer uma importação de um pacote na sua versão mais atual é grande, mas infelizmente ainda passa depercebido por muitos desenvolvedores e lideres de projeto.
+
+Algumas funcionalides que não compilam mais por conta de alguma atualização feita em alguma biblicoteca nas dependencias, é sim um caso crítico, mas até chegar nessa conclusão, passamos por muitas dores de cabeça.
+
+Não foi diferente no caso Jarbas onde foi feita uma atualização no pacote "Reprint" para uma versão mais atual. Até então estava correndo tudo muito bem, ate que o temido erro no código apareceu.Debugs foram feitos, tempo foi perdido, esforços foram necessários até descobrirem a causa do problema, ainda bem que o código estava versionado e assim puderam voltar a versão anterior.
+
+Retomada a versão anterior graças ao PyPi(Python Package Index) que é um repositório de código exclusivamente para a linguagem Python, onde ele garante que a aplicação sempre esteja disponivel para a instalação.Sem duvida, sua utilização é de suma importancia para um projeto ser bem eleborado, fazendo seus versionamentos necessários.
+
+Para um projeto de grande porte por exemplo, um versionamento da aplicação será util para correção de bugs, entendimento do négócio, ver quais implementações foram feitas, quando, e por quem. Caso necessite voltar um versão anterior é simples, sem passar por estress ou desespero.

@@ -1,0 +1,10 @@
+Descrição do Caso de Uso
+ 
+Case 1 
+Usuário: pressiona o botão para chamar o elevador.
+O sensor no botão envia requisição para o sistema, identificando o andar solicitado.  
+Se o elevador está parado, o sistema determina em que direção vai mover o elevador. O sistema ainda comanda o fechamento da porta, e quando a porta estiver fechada, o sistema comanda o motor para mover o elevador na direção determinada.
+Case 2
+Usuário: pressiona o botão para chamar o elevador.
+O sensor no botão envia requisição para o sistema, identificando o andar solicitado.  
+Se o elevador está parado no andar em que foi solicitado, o sistema determina a abertura/fechamento da porta, e quando a porta estiver fechada, o sistema comanda o motor para mover o elevador na direção determinada.
