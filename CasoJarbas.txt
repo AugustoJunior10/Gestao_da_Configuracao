@@ -1,6 +1,6 @@
 Relatório Gestão de Configuração - Nélio Augusto
 
-Caso Jarbas
+Caso Jarbas Versionamento
 
 As dependencias do caso Jarbas são comuns em todos os projetos de sotware existente no mundo se assim podemos dizer. A grau de importancia ou fazer uma importação de um pacote na sua versão mais atual é grande, mas infelizmente ainda passa depercebido por muitos desenvolvedores e lideres de projeto.
 
